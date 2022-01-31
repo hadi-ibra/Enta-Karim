@@ -1,0 +1,21 @@
+.slick-dots{
+    bottom: 0 !important;
+}
+
+
+.slicker-slider{
+    overflow: hidden;
+}
+
+
+.slick-slide{
+    margin: 0 4vh;
+}
+
+#carousel .swiper{
+    padding-left: 10% !important;
+}
+
+.css-1pppdl0-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border: none;
+}
